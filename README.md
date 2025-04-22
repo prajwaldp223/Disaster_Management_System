@@ -1,6 +1,6 @@
 # Disaster-Management-system-
 
-  link to website -  https://66b91512059d039bf168f4fe--dashing-salamander-a24143.netlify.app/
+  link to website -  (https://rescuehub.netlify.app/)
 
  <h1>Team name: Ctrl c + ctrl v </h1>
 Project name: Rescue hub
